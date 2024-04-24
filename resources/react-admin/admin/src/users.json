@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "jcipra",
+            "password": "password",
+            "fullName": "Jaroslav Cipra",
+            "avatar": ""
+        },
+        {
+            "id": 2,
+            "username": "kciprova",
+            "password": "password",
+            "fullName": "Kateřina Ciprová",
+            "avatar": ""
+        }
+    ]
+}
